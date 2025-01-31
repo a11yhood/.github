@@ -1,14 +1,19 @@
-# a11yhood.github.io: Open-Source Assistive Technology Discovery
+# a11yhood.github.io: Accelerating the Adoption of open-Source Assistive Technology 
 
-a11yhood.github.io is an accessible online resource aimed at centralizing open-source assistive technologies. It serves as a tool for disabled makers, care givers, developers, and contributors to find, use, and contribute to a variety of open-source accessibility projects. Our mission is to build capacity, increase the transfer of assistive technologies to users, and provide technical assistance for people with disabilities and organizations that serve them. a11yhood's goals are:
+a11yhood.github.io is a central hub for information about open-source assistive technologies. It serves as a tool for disabled makers, care givers, developers, and contributors to find, use, and contribute to a variety of open-source accessibility projects. 
 
-- Centralize community resources in a searchable, accessible format.
-- Cultivate accessible, community-driven development and skill sharing.
-- Increase employment opportunities for people with disabilities.
+## Mission
+Our mission is to build capacity, increase the adoption of assistive technologies by users, and provide technical assistance for people with disabilities and organizations that serve them. 
+
+## Goals
+Our goals are to:
+- Centralize community resources for open-source assistive technologies in a searchable, accessible format.
+- Cultivate accessible, community-driven development of open-source technologies. 
+- Increase the ability for people with disabilities to access technology.
 - Establish a community of learning and support for open-source accessibility solutions.
 
-Our open-source technology and community will focus on features like:
-
+## Features 
+a11yhood will provide features such as:
 - Centralized repository of software, tutorials, commentary, and reviews.
 - Accessible development environment for disabled contributors.
 - Community-driven skill sharing and discussion.
