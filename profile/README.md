@@ -26,6 +26,9 @@ For more information or to contribute, visit a11yhood.github.io
 
 * [CREATE awarded $4.6M for research on AI risks, opportunities for people with disabilities](https://create.uw.edu/create-rerc-grant-2024-ai-research/)
 
+## Partnerships
+A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with the [Center for Accessibility and Open Source](https://caos.org/). 
+
 ## Funding
 
 * The contents of this website were developed under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90REGE0026-01-00) funding the Center for Research and Education on Accessible Technology and Experiences (CREATE), and with a gift from the Tides Foundation. NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS). The contents of this website do not necessarily represent the policy of NIDILRR, ACL, HHS, and you should not assume endorsement by the Federal Government.
