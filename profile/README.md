@@ -27,7 +27,10 @@ For more information or to contribute, visit a11yhood.github.io
 * [CREATE awarded $4.6M for research on AI risks, opportunities for people with disabilities](https://create.uw.edu/create-rerc-grant-2024-ai-research/)
 
 ## Partnerships
-A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with the [Center for Accessibility and Open Source](https://caos.org/). 
+A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with:
+
+* [The Center for Accessibility and Open Source](https://caos.org/).
+* [![Grassroots Open Assistive Tech](https://github.com/a11yhood/site-settings/blob/main/src/site_settings/assets/images/GOAT-plain-graphic-text.png?raw=true)](https://www.openassistivetech.org/)
 
 ## Funding
 
