@@ -1,4 +1,4 @@
-# A11yhood.org: Accelerating the Adoption of open-Source Assistive Technology 
+# A11yhood.org: Accelerating the Adoption of Open-Source Assistive Technology 
 
 A11yhood is a community platform for discovering, reviewing, and discussing open-source assistive technologies. A11yhood serves as a central hub for disabled and non-disabled makers, developers, and contributors to find, use, and contribute to accessibility projects.
 
@@ -39,7 +39,7 @@ This software is distributed under a BSD License. See [LICENSE](LICENSE) for det
 A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with:
 
 * [The Center for Accessibility and Open Source](https://caos.org/).
-* [![Grassroots Open Assistive Tech](https://github.com/a11yhood/site-settings/blob/main/src/site_settings/assets/images/GOAT-plain-graphic-text.png?raw=true)](https://www.openassistivetech.org/)
+* [Grassroots Open Assistive Tech](https://www.openassistivetech.org/)
 
-# Notes
+---
 The contents of this website do not necessarily represent the policy of NIDILRR, ACL, HHS, and you should not assume endorsement by the Federal Government.
