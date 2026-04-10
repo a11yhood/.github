@@ -1,8 +1,14 @@
-# a11yhood.github.io: Accelerating the Adoption of open-Source Assistive Technology 
+# A11yhood.org: Accelerating the Adoption of open-Source Assistive Technology 
 
-a11yhood is a central hub for information about open-source assistive technologies. It serves as a tool for disabled makers, developers, and contributors and their allies and communities to find, use, and contribute to a variety of open-source accessibility projects. 
+A11yhood is a community platform for discovering, reviewing, and discussing open-source assistive technologies. A11yhood serves as a central hub for disabled and non-disabled makers, developers, and contributors to find, use, and contribute to accessibility projects.
 
-[Try our newest interface!](https://a11yhood.cs.washington.edu/)
+A11yhood was developed as part of the [Center for Research and Education on Accessible Technology and Experiences (CREATE)](https://create.uw.edu/) Rehabilitation Engineering Research Center under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90REGE0026), with additional support from the Github through the Tides Foundation. 
+
+-[Mission](#mission)
+-[Goals](#goals)
+-[Contributing](#contributing)
+-[Partnerships](#partnerships)
+-[Notes](#notes)
 
 ## Mission
 Our mission is to build capacity, increase the adoption of assistive technologies by users, and provide technical assistance for people with disabilities their communities. 
@@ -14,19 +20,20 @@ Our goals are to:
 - Increase the ability for people with disabilities to access technology.
 - Establish a community of learning and support for open-source accessibility solutions.
 
-## Features 
-a11yhood will provide features such as:
-- Centralized repository of software, tutorials, commentary, and reviews.
-- Accessible development support for disabled contributors.
-- Community-driven skill sharing and discussion.
-- Open source and accessible code base and documentation
+A11yhood currently supports  the following features
 
+- **Product Discovery**: Automated scraping from GitHub, Ravelry and Thingiverse; product additions by users as well
+- **User Collections**: Users can create and share curated collections of accessibility products
+- **Review System**: Star ratings and discussions of products
+- **User Profiles**: Public profiles showcasing contributions and collections
 
-For more information or to contribute, visit a11yhood.github.io
+For more information or to contribute, visit [A11yhood.org](https://a11yhood.org). For news, check out [A11yhood.org/blog](https://a11yhood.org/blog).
 
-## News
+## Contributing
 
-* [CREATE awarded $4.6M for research on AI risks, opportunities for people with disabilities](https://create.uw.edu/create-rerc-grant-2024-ai-research/)
+We welcome open source contributors to A11yhood! Please check out our [community](https://github.com/a11yhood/community) repository to learn more about [contributing](https://github.com/a11yhood/CONTRIBUTING.md). 
+
+This software is distributed under a BSD License. See [LICENSE](LICENSE) for details.
 
 ## Partnerships
 A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with:
@@ -34,6 +41,5 @@ A11yhood.org is an an initiative of the Center for Research and Education on Acc
 * [The Center for Accessibility and Open Source](https://caos.org/).
 * [![Grassroots Open Assistive Tech](https://github.com/a11yhood/site-settings/blob/main/src/site_settings/assets/images/GOAT-plain-graphic-text.png?raw=true)](https://www.openassistivetech.org/)
 
-## Funding
-
-* The contents of this website were developed under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90REGE0026-01-00) funding the Center for Research and Education on Accessible Technology and Experiences (CREATE), and with a gift from the Tides Foundation. NIDILRR is a Center within the Administration for Community Living (ACL), Department of Health and Human Services (HHS). The contents of this website do not necessarily represent the policy of NIDILRR, ACL, HHS, and you should not assume endorsement by the Federal Government.
+# Notes
+The contents of this website do not necessarily represent the policy of NIDILRR, ACL, HHS, and you should not assume endorsement by the Federal Government.
