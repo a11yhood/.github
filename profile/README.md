@@ -27,7 +27,7 @@ A11yhood currently supports  the following features
 - **Review System**: Star ratings and discussions of products
 - **User Profiles**: Public profiles showcasing contributions and collections
 
-For more information or to contribute, visit [A11yhood.org](https://a11yhood.org). For news, check out [A11yhood.org/blog](https://a11yhood.org/blog).
+For more information, visit [A11yhood.org](https://a11yhood.org). For news, check out [A11yhood.org/blog](https://a11yhood.org/blog).
 
 ## Contributing
 
