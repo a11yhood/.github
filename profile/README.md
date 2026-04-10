@@ -4,11 +4,7 @@ A11yhood is a community platform for discovering, reviewing, and discussing open
 
 A11yhood was developed as part of the [Center for Research and Education on Accessible Technology and Experiences (CREATE)](https://create.uw.edu/) Rehabilitation Engineering Research Center under a grant from the National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR grant number 90REGE0026), with additional support from the Github through the Tides Foundation. 
 
--[Mission](#mission)
--[Goals](#goals)
--[Contributing](#contributing)
--[Partnerships](#partnerships)
--[Notes](#notes)
+[Mission](#mission)| [Goals](#goals) | [Contributing](#contributing) | [Partnerships](#partnerships) | [Notes](#notes)
 
 ## Mission
 Our mission is to build capacity, increase the adoption of assistive technologies by users, and provide technical assistance for people with disabilities their communities. 
@@ -31,12 +27,12 @@ For more information, visit [A11yhood.org](https://a11yhood.org). For news, chec
 
 ## Contributing
 
-We welcome open source contributors to A11yhood! Please check out our [community](https://github.com/a11yhood/community) repository to learn more about [contributing](https://github.com/a11yhood/CONTRIBUTING.md). 
+We welcome open source contributors to A11yhood! Please check out our [community](https://github.com/a11yhood/community) repository to learn more about [contributing](https://github.com/a11yhood/community/CONTRIBUTING.md). 
 
-This software is distributed under a BSD License. See [LICENSE](LICENSE) for details.
+This software is distributed under a BSD License. See [LICENSE](https://github.com/a11yhood/community/LICENSE) for details.
 
 ## Partnerships
-A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](create.uw.edu)). We are proud to partner with:
+A11yhood.org is an an initiative of the Center for Research and Education on Accessible Technology and Experiences ([CREATE](https://create.uw.edu)). We are proud to partner with:
 
 * [The Center for Accessibility and Open Source](https://caos.org/).
 * [Grassroots Open Assistive Tech](https://www.openassistivetech.org/)
