@@ -27,7 +27,7 @@ For more information, visit [A11yhood.org](https://a11yhood.org). For news, chec
 
 ## Contributing
 
-We welcome open source contributors to A11yhood! Please check out our [community](https://github.com/a11yhood/community) repository to learn more about [contributing](h[ttps://github.com/a11yhood/community/CONTRIBUTING.md](https://github.com/a11yhood/community/blob/main/CONTRIBUTING.md). 
+We welcome open source contributors to A11yhood! Please check out our [community](https://github.com/a11yhood/community) repository to learn more about [contributing](https://github.com/a11yhood/community/blob/main/CONTRIBUTING.md). 
 
 This software is distributed under a BSD License. See [LICENSE]([https://github.com/a11yhood/community/blob/main/LICENSE) for details.
 
